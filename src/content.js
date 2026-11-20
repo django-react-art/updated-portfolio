@@ -25,7 +25,7 @@ about: {
   ]
 },
   education: { title: 'Education', eyebrow: 'My learning journey', entries: [
-    { place: 'Webster University', location: 'St. Louis, Missouri', role: 'MS in Information and Technology Management', date: 'Expected May 2027' },
+    { place: 'Webster University', location: 'St. Louis, Missouri', role: 'MS in Information and Technology Management', date: 'Expected December 2026' },
     { place: 'Shanker Dev Campus', location: 'Kathmandu, Nepal', role: 'Bachelor’s in Information Management', date: 'December 2023', detail: 'Degree emphasis: Web Development and Marketing · GPA: 3.35/4.0' },
   ] },
   experience: { title: 'Experience', eyebrow: 'Where I’ve contributed', entries: [
