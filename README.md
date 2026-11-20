@@ -11,9 +11,9 @@ npm run dev
 
 ### Screenshots
 
-![Home Page](media/homepage_screenshot.png)
+![Home Page](public/media/homepage_screenshot.png)
 
-![Education Section](media/education_screenshot.png)
+![Education Section](public/media/education_screenshot.png)
 
 ## How it is built
 
