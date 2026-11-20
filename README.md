@@ -11,14 +11,9 @@ npm run dev
 
 ### Screenshots
 
-### Home Page
-![Home Page](screenshots/home.png)
+![Home Page](media/homepage_screenshot.png)
 
-### Login Page
-![Login Page](screenshots/login.png)
-
-### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Education Section](media/education_screenshot.png)
 
 ## How it is built
 
